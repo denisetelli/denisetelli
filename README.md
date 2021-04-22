@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-🔭 I’m currently working with Java | Spring for DbServer  
+🔭 I’m currently working with Java | Spring 
 
-🌱 I’m currently learning API Rest
+🌱 Currently learning WebFlux and Flutter
 
-⚡ Fun fact I like coffee, craft beer and meditation
+⚡ About me: I enjoy having a great coffee!
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisetelli)
 
