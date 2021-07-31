@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-🔭 I’m currently working with Java | Spring 
+🔭 I am a backend software engineer working with Java 8/11 | Spring 
 
-🌱 Currently learning WebFlux and Flutter
+🌱 Currently learning WebFlux
 
-⚡ About me: I enjoy having a great coffee!
+⚡ About me: I love coffee and sudoku!
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denisetelli)
 
