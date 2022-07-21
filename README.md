@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />
 Welcome to my Github profile, I am Denise :information_desk_person:
 
-💻 Backend software engineer currently working at the digital bank Agi
+💻 Backend software engineer currently working at Globant as Java developer
 
 🎓 Graduated in Information Systems from PUCRS 
 
